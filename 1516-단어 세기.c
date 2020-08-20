@@ -5,7 +5,7 @@
 int main(void)
 {
 	char array[30][201];
-	int i, j = 0, k[30] = { 0, };		//k´Â sArr¿¡¼­ ÇÑ ¹®ÀåÀÇ ½ÃÀÛ index
+	int i, j = 0, k[30] = { 0, };		//këŠ” sArrì—ì„œ í•œ ë¬¸ì¥ì˜ ì‹œì‘ index
 	char* ptr;
 	char* sArr[100] = { NULL, };
 	int number[100] = { 0, };
